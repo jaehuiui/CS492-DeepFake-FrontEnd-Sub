@@ -1,4 +1,4 @@
-# DeepFake_FrontEnd_Sub
+# CS492 DeepFake / Android Service
 
 CS492 DeepFake FrontEnd Sub Model
 
