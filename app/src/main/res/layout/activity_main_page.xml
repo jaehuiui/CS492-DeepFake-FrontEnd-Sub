@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.circularreveal.coordinatorlayout.CircularRevealCoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/home_screen"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/btn_bg">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:text="User Info"
+        android:onClick="user_info"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="250dp"
+        android:text="Upload Video"
+        android:onClick="upload_video"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="400dp"
+        android:text="Get rid test"
+        android:onClick="rid_test"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="550dp"
+        android:text="Download"
+        android:onClick="download"/>
+
+
+
+
+</com.google.android.material.circularreveal.coordinatorlayout.CircularRevealCoordinatorLayout>
